@@ -1,36 +1,173 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a name="readme-top"></a>
 
-## Getting Started
+<div align="center">
+  <h2><b>Ape Axe</b></h2>
+</div>
 
-First, run the development server:
+<!-- TABLE OF CONTENTS -->
 
-```bash
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Ape Axe <a name="about-project"></a>
+
+**Ape Axe** "Welcome to Ape Axe! This is landing page website where you can find projects, contact information, and team members."
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>HTML</summary>
+  <ul>
+    <li><a href="#">HTML</a></li>
+  </ul>
+</details>
+<details>
+  <summary>CSS</summary>
+  <ul>
+    <li><a href="#">CSS</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>NextJS</summary>
+  <ul>
+    <li><a href="#">NextJS</a></li>
+  </ul>
+</details>
+<details>
+<summary>Github</summary>
+  <ul>
+    <li><a href="#">Github</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[Setup with NextJS]**
+- **[Setup linters for React/Redux]**
+- **[Setup Basic Structure of App]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo]()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+Node.js
+Visual Studio Code
+Browser
+
+### Setup
+
+git clone https://github.com/Metaverse-Nabeel/apeaxe.git
+
+cd apeaxe
+
+### Install
+
+npm install
+
+### Usage
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Run tests
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+npm test
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Deployment
 
-## Learn More
+npm run build
 
-To learn more about Next.js, take a look at the following resources:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<!-- AUTHORS -->
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 👥 Authors <a name="authors"></a>
 
-## Deploy on Vercel
+👤 **Nabeel Ahmed**
+- GitHub: [@Metaverse-Nabeel](https://github.com/Metaverse-Nabeel)
+- LinkedIn: [@Nabeel129](https://www.linkedin.com/in/nabeel129/)
+- Wellfound(AngelList): [@Nabeel129](https://wellfound.com/u/nabeel-ahmed-62)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **Adding more features to the application**
+- **Improving UI/UX design of the application**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project you can follow me and give the project a star.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+* To all the users and people who support.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
